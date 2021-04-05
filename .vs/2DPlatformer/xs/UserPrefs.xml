@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4B96806D-EA4F-29C8-FFFC-08AB6B85CCB6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraFollow.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="41" Column="75" />
+      <File FileName="Assets/Scripts/CharacterController2D.cs" Line="133" Column="71" />
+      <File FileName="Assets/Scripts/PotionController.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/FloatingMovement.cs" Line="21" Column="10" />
+      <File FileName="Assets/Scripts/GemstonePickup.cs" Line="14" Column="71" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="26" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2DPlatformer" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CameraFollow.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4ebe5550-80f1-4944-bb51-2510a6dad22e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
